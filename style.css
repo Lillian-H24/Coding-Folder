@@ -1,7 +1,8 @@
 
 
-body {
-	background-color: whitesmoke;
+body 
+#homePage{
+	background-color:whitesmoke;
 }
 a{
 text-decoration:none;
@@ -13,3 +14,17 @@ list-style-type:none;
 background-color: #e2f786;
 }
 }
+
+#rasinPage {
+background-color:#6d5870;	
+}
+
+.topnav {
+background-color: #f0faff;
+
+}
+
+For later
+Lemon page: #fff8c
+Cookie page: #d6bdab
+Macaroon page: #fff5fe
