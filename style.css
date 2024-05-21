@@ -5,28 +5,60 @@
 	background-color:whitesmoke;
 }
 #rasinPage{
-	background-color:mediumpurple;
-a{
-text-decoration:none;
+	background-color:#75697d;
 }
- ul {
-list-style-type:none;
+a{
+	text-decoration:none;
+}
+ul {
+	list-style-type:none;
 }
 #pistachioPage{
-background-color: #e2f786;
+	background-color: #e2f786;
 }
 
 
+.topnav a {
+   float: left;
+   color: #black;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
 }
+
+.topnav a:hover {
+   background-color: #DDDDDD;
+   color: black;
+}
+
+.topnav a.active {
+   background-color: #4a6ba1;
+   color: white;
+}
+
 
 .topnav {
-background-color: #f0faff;
-
-
-#Recipes{
-background-color: #d6bdab ;
+	background-color: #f0faff;
+	overflow:hidden;
 }
-For later
-Lemon page: #fff8c
-Cookie page: #d6bdab
-Macaroon page: #fff5fe
+
+	#Recipes{
+		background-color: #d6bdab ;
+	}
+
+	#rasinPage{
+	background-color:#75697d;
+}
+
+#LemonCake{
+	background-color:#f9fad7;
+}
+
+#Macarons {
+	background-color:#fff5fe;
+}
+	/*For later
+
+	
+	Macaroon page: #fff5fe
